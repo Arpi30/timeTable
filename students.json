@@ -1,0 +1,22 @@
+[
+  { "vezeteknev": "Nagy", "keresztnev": "Anna", "sex": "female", "tantargyak": [] },
+  { "vezeteknev": "Kovács", "keresztnev": "József","sex": "male", "tantargyak": [] },
+  { "vezeteknev": "Tóth", "keresztnev": "Miklós","sex": "male", "tantargyak": [] },
+  { "vezeteknev": "Szabó", "keresztnev": "Zoltán","sex": "male", "tantargyak": [] },
+  { "vezeteknev": "Horváth", "keresztnev": "Gábor","sex": "male", "tantargyak": [] },
+  { "vezeteknev": "Varga", "keresztnev": "Péter","sex": "male", "tantargyak": [] },
+  { "vezeteknev": "Balogh", "keresztnev": "Katalin","sex": "female", "tantargyak": [] },
+  { "vezeteknev": "Németh", "keresztnev": "Gábor","sex": "male", "tantargyak": [] },
+  { "vezeteknev": "Farkas", "keresztnev": "László","sex": "male", "tantargyak": [] },
+  { "vezeteknev": "Kiss", "keresztnev": "József","sex": "male", "tantargyak": [] },
+  { "vezeteknev": "Mészáros", "keresztnev": "Tibor","sex": "male", "tantargyak": [] },
+  { "vezeteknev": "Péter", "keresztnev": "Mária","sex": "female", "tantargyak": [] },
+  { "vezeteknev": "Takács", "keresztnev": "István","sex": "male", "tantargyak": [] },
+  { "vezeteknev": "Varga", "keresztnev": "Zsuzsanna","sex": "female", "tantargyak": [] },
+  { "vezeteknev": "Molnár", "keresztnev": "Katalin","sex": "female", "tantargyak": [] },
+  { "vezeteknev": "Juhász", "keresztnev": "Ádám","sex": "male", "tantargyak": [] },
+  { "vezeteknev": "Czégel", "keresztnev": "László","sex": "male", "tantargyak": [] },
+  { "vezeteknev": "Pásztor", "keresztnev": "Zoltán","sex": "male", "tantargyak": [] },
+  { "vezeteknev": "Kovács", "keresztnev": "Bálint","sex": "male", "tantargyak": [] },
+  { "vezeteknev": "Fekete", "keresztnev": "Tímea","sex": "female", "tantargyak": [] }
+]
